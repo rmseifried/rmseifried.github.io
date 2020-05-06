@@ -53,5 +53,4 @@ All of these projects were crafted with love for the "WebGIS" class at UMass Amh
 
 ["Daily Dose of Delight" survey](https://umass-amherst.maps.arcgis.com/home/item.html?id=23f982f5aab1413bb76c8ae4762eac86)<br>Created with Esri's Survey123 for ArcGIS
 
-Take the survey!<br>![QR code for the Daily Dose of Delight survey](https://github.com/rmseifried/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-delight_QR.png
+Take the survey!<br>![QR code for the Daily Dose of Delight survey](https://github.com/rmseifried/rmseifried.github.io/blob/master/delight_QR.png?raw=true "QR code")
