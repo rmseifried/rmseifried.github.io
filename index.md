@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/rmseifried/rmseifried.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Dr. Becky Seifried, the GIS Librarian at UMass Amherst. Check out our [GIS website](https://gis.library.umass.edu/) to learn more about the cool programs and resources on campus. Or check out my [Academia profile](https://umass.academia.edu/RebeccaSeifried) to learn more about my research.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lots of the data featured here comes from a lovely part of the world called the **Mani peninsula**, which sits at the southernmost part of the Greek mainland. If you'd like to learn more about my research in Mani, check out some of these links:
 
-### Markdown
+### Videos
+* [Talk at the Digital Classicist London Seminars (2019)](https://www.youtube.com/watch?v=fFUeSnOWGuk)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Articles
+* ["An Exploratory Spatial Analysis of the Churches in the Southern Mani Peninsula, Greece" (2019)](https://works.bepress.com/rebecca-seifried/9/)
+* ["Reconstructing historical journeys with least-cost analysis: Colonel William Leake in the Mani Peninsula, Greece (2019)](https://www.academia.edu/38351999/Seifried_R.M._and_C.A.M._Gardner._2019._Reconstructing_historical_journeys_with_least-cost_analysis_Colonel_William_Leake_in_the_Mani_Peninsula_Greece._Journal_of_Archaeological_Science_Reports_24_391-411)
+* [Population (2015)](https://works.bepress.com/rebecca-seifried/4/)
 
-```markdown
-Syntax highlighted code block
+### Dissertation
 
-# Header 1
-## Header 2
-### Header 3
+* [2016 dissertation about the settlements in Mani](https://hdl.handle.net/10027/21274)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## WebGIS Portfolio, Spring 2020
 
-**Bold** and _Italic_ and `Code` text
+These projects were crafted with love for the "WebGIS" class at UMass Amherst in Spring 2020.
 
-[Link](url) and ![Image](src)
-```
+### Project 1: WebApps
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rmseifried/rmseifried.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
