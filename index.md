@@ -20,32 +20,37 @@ Lots of the data featured here comes from a lovely part of the world called the 
 
 All of these projects were crafted with love for the "WebGIS" class at UMass Amherst, which I had the pleasure of taking in Spring 2020 with Dr. Forrest Bowlick. Highlighy recommended!
 
-### 1 – Web apping
+### 1 – Web app building
 
-[Leake's Journey in Mani in 1805](https://umass-amherst.maps.arcgis.com/apps/webappviewer/index.html?id=3244dbbb6bd24cb3b36e4edd1bd6d86d)<br>Created with Esri's Web AppBuilder 
+[Leake's Journey in Mani in 1805](https://umass-amherst.maps.arcgis.com/apps/webappviewer/index.html?id=3244dbbb6bd24cb3b36e4edd1bd6d86d)
+
+Created with Esri's Web AppBuilder 
 
 ### 2 – Story mapping
 
-[Colonel Leake’s Journey in Mani: A StoryMap by the CARTography Project](https://storymaps.arcgis.com/stories/88695756fa0d4e2583c519fc12a60eb6)<br>Created with Esri's StoryMaps
+[Colonel Leake’s Journey in Mani: A StoryMap by the CARTography Project](https://storymaps.arcgis.com/stories/88695756fa0d4e2583c519fc12a60eb6)
+
+Created with Esri's StoryMaps
 
 ### 3 – Analyzing
 
 [Analysis Tools in ArcGIS Online: A Review](https://umass-amherst.maps.arcgis.com/apps/MapSeries/index.html?appid=40a158234dc0434883db94f852db00a7)<br>Created with Esri's ArcGIS Online and StoryMaps
 
-### 4 – Community mapping
+### 4 – Contributing
 
 [Changesets by rseifried](https://www.openstreetmap.org/user/rseifried/history)<br>Edits made in OpenStreetMap and Humanitarian OpenStreetMap
 
-### 5 – HTMLing
+### 5 – HTML coding
 
+[My abbreviated Curriculum Vitae](https://rmseifried.github.io/CV/)<br>HTML file hosted in [GitHub](https://github.com/rmseifried/CV). 
 
-### 6 – Google Mapping
+### 6 – Google Maps mapping
 
 [A few pretty great fortresses in Dalmatia](https://jsfiddle.net/bd9fkxw2/)<br>Created with JSFiddle
 
-### 7 – Mapboxing
+### 7 – Mapbox mapping
 
-### 8 – Community Engaging
+### 8 – Engaging
 
 ["Librarians of the Map" Twitter List](https://twitter.com/i/lists/1256971357692342273?s=20)<br>Created with Twitter and help from a lot of very cool people
 
