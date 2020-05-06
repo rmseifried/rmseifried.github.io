@@ -47,4 +47,8 @@ All of these projects were crafted with love for the "WebGIS" class at UMass Amh
 
 ### 8 – Community Engaging
 
+["Librarians of the Map" Twitter List](https://twitter.com/i/lists/1256971357692342273?s=20)<br>Created with Twitter and help from a lot of very cool people
+
 ### 9 – Surveying
+
+["Daily Dose of Delight" survey](https://umass-amherst.maps.arcgis.com/home/item.html?id=23f982f5aab1413bb76c8ae4762eac86)<br>Created with Esri's Survey123 for ArcGIS
