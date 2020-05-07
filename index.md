@@ -18,7 +18,7 @@ All of these projects were crafted with love for a class on **WebGIS**, which I 
 8. [Librarians of the Map](https://twitter.com/i/lists/1256971357692342273?s=20), Twitter list created with help from a lot of very cool people
 9. [Daily Dose of Delight](https://umass-amherst.maps.arcgis.com/home/item.html?id=23f982f5aab1413bb76c8ae4762eac86), survey created with Esri's Survey123
 
-Take the survey!
+[Take the survey!](https://arcg.is/0LuDHS)
 
 ![QR code for the Daily Dose of Delight survey](https://github.com/rmseifried/rmseifried.github.io/blob/master/images/delight_QR.png?raw=true "QR code")
 
