@@ -1,4 +1,4 @@
-## About Me
+# Welcome!
 
 I'm Dr. Becky Seifried, the GIS Librarian at UMass Amherst. Check out our [GIS website](https://gis.library.umass.edu/) to learn more about the cool geospatial programs and resources on campus. 
 
@@ -12,7 +12,7 @@ All of these projects were crafted with love for a class on **WebGIS**, which I 
 2. [Colonel Leake’s Journey in Mani](https://storymaps.arcgis.com/stories/88695756fa0d4e2583c519fc12a60eb6), story map created with Esri's StoryMaps
 3. [Analysis Tools in ArcGIS Online: A Review](https://umass-amherst.maps.arcgis.com/apps/MapSeries/index.html?appid=40a158234dc0434883db94f852db00a7), story map created with Esri's ArcGIS Online and StoryMaps
 4. [Changesets by rseifried](https://www.openstreetmap.org/user/rseifried/history), edits made in OpenStreetMap and Humanitarian OpenStreetMap
-5. [My abbreviated Curriculum Vitae](https://rmseifried.github.io/CV/), HTML file hosted in [GitHub](https://github.com/rmseifried/CV). 
+5. [My abbreviated Curriculum Vitae](https://rmseifried.github.io/CV/), HTML file hosted in [GitHub](https://github.com/rmseifried/CV)
 6. [A few pretty great fortresses in Dalmatia](https://jsfiddle.net/bd9fkxw2/), map mockup created with JSFiddle
 7. [Churches in Mani](https://rmseifried.github.io/churches-in-mani/), created with Mapbox, HTML file hosted in [GitHub](https://github.com/rmseifried/churches-in-mani) 
 8. [Librarians of the Map](https://twitter.com/i/lists/1256971357692342273?s=20), Twitter list created with help from a lot of very cool people
