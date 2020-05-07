@@ -1,12 +1,12 @@
 # About Me
 
-I'm Dr. Becky Seifried, the GIS Librarian at UMass Amherst. Check out our [GIS website](https://gis.library.umass.edu/) to learn more about the cool programs and resources on campus. 
+I'm Dr. Becky Seifried, the GIS Librarian at UMass Amherst. Check out our [GIS website](https://gis.library.umass.edu/) to learn more about the cool geospatial programs and resources on campus. 
 
 Lots of the data featured here comes from a lovely part of the world called the **Mani peninsula**, which sits at the southernmost part of the Greek mainland. To learn more about the area, hop to the bottom of the page for extra links.
 
 # WebGIS Portfolio, May 2020
 
-All of these projects were crafted with love for a class on WebGIS, which I had the pleasure of taking with Dr. Forrest Bowlick at UMass Amherst. Highly recommended!
+All of these projects were crafted with love for a class on **WebGIS**, which I had the pleasure of taking with Dr. Forrest Bowlick at UMass Amherst. Highly recommended!
 
 1. [Leake's Journey in Mani in 1805](https://umass-amherst.maps.arcgis.com/apps/webappviewer/index.html?id=3244dbbb6bd24cb3b36e4edd1bd6d86d), web app created with Esri's Web AppBuilder 
 2. [Colonel Leake’s Journey in Mani: A StoryMap by the CARTography Project](https://storymaps.arcgis.com/stories/88695756fa0d4e2583c519fc12a60eb6), story map created with Esri's StoryMaps
@@ -18,13 +18,13 @@ All of these projects were crafted with love for a class on WebGIS, which I had 
 8. [Librarians of the Map](https://twitter.com/i/lists/1256971357692342273?s=20), Twitter list created with help from a lot of very cool people
 9. [Daily Dose of Delight](https://umass-amherst.maps.arcgis.com/home/item.html?id=23f982f5aab1413bb76c8ae4762eac86), survey created with Esri's Survey123 for ArcGIS
 
-Take the survey!
+Take the survey right now!
 
 ![QR code for the Daily Dose of Delight survey](https://github.com/rmseifried/rmseifried.github.io/blob/master/images/delight_QR.png?raw=true "QR code")
 
-# Want to learn more?
+# Want more Mani?
 
-Check out some of these links for more information about the research I'm doing in Mani.
+Check out some of these links to learn more about my research in the wildest corner of Greece.
 
 ## Videos
 * [Talk at the Digital Classicist London Seminars (2019)](https://www.youtube.com/watch?v=fFUeSnOWGuk)
